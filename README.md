@@ -2,9 +2,9 @@
 Computer Graphics Laboratory Project on "ATOM SIMULATION" using OpenGL in C
 
 # To execute follow
-install g++ compiler & glut library
-use g++ atom.c -lGL -lGLU -lglut commond to compile, If are using Windows OS 
-use ./a.out to see the output
+1.install g++ compiler & glut library<br/>
+2.use g++ atom.c -lGL -lGLU -lglut commond to compile, If are using Windows OS <br/>
+3.use ./a.out to see the output
 
 # Screenshots
 ![Figure 4 1 Snapshot of Home Screen](https://user-images.githubusercontent.com/98503314/179381797-601ba9d3-b5cb-4453-805f-d5a4a80feeef.jpeg)
